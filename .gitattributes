@@ -1,0 +1,2 @@
+Armbian_21.05.0-TIPc7x_focal_current_5.10.21.zip filter=lfs diff=lfs merge=lfs -text
+ROM[[:space:]][S905X][[:space:]][Android[[:space:]]TV[[:space:]]9][[:space:]](Universal[[:space:]]RTL[[:space:]]&[[:space:]]BCM).zip filter=lfs diff=lfs merge=lfs -text
