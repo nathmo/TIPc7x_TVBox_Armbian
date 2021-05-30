@@ -1,10 +1,12 @@
 # TIPc7x_TVBox_Armbian
 a repository containing the file and the intruction to run Armbian from a TIPc7x TV box sold by AVIQ (might work on A95X from NEXBOX. not tested)
 
-==Disclaimer==
-This procedure is not 100% safe and there is a risk of leaving your board in a unsusable state. If you follow carefully the following step you should be fine.
-If you encounter spelling mistake, imprecision in the steps, or any other problem with thoses insctruction or file dont hesistate to open an issue or directly a pull request. and if you find this tutorial useful please leave a star.
-==Requirements==
+## Disclaimer
+
+This procedure is not 100% safe and there is a risk of leaving your board in a unsusable state.You have been warned.
+If you encounter spelling mistake, imprecision in the steps, or any other problem with thoses insctruction or file dont hesistate to open an issue or directly a pull request and if you find this tutorial useful please star this repo.
+
+## Requirements
 
 * USB cable type Male A to male A (you can either make one using two USB cable that you cut and solder together, or you can order one from [https://www.aliexpress.com/item/4000097120453.html]
 * A Computer running windows with Admin rights
@@ -16,7 +18,7 @@ If you encounter spelling mistake, imprecision in the steps, or any other proble
 * a suitable power supply for the TIPc7x
 * the file in this repo
 
-==Steps==
+## Steps
 
 1) Download the required Files and extract them
 
