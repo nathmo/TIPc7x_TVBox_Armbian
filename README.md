@@ -1,6 +1,9 @@
 # TIPc7x_TVBox_Armbian
 a repository containing the file and the intruction to run Armbian from a TIPc7x TV box sold by AVIQ (might work on A95X from NEXBOX. not tested)
 
+==Disclaimer==
+This procedure is not 100% safe and there is a risk of leaving your board in a unsusable state. If you follow carefully the following step you should be fine.
+If you encounter spelling mistake, imprecision in the steps, or any other problem with thoses insctruction or file dont hesistate to open an issue or directly a pull request. and if you find this tutorial useful please leave a star.
 ==Requirements==
 
 * USB cable type Male A to male A (you can either make one using two USB cable that you cut and solder together, or you can order one from [https://www.aliexpress.com/item/4000097120453.html]
@@ -50,3 +53,19 @@ Use the correct USB port (the closest to the Ethernet port)
 
 14) You should see armbian booting on screen. You can now use the keyboard to set a root password and a user account. (beware, the keyboard as the American layout. Check before setting password)
 ![Armbian Boot](https://github.com/nathmo/TIPc7x_TVBox_Armbian/blob/main/Pictures/ArmbianBootingHDMIScreen.jpg)
+
+15) once the box reboot you can login with the account you created and launch "sudo armbian-config"
+![Armbian Login](https://github.com/nathmo/TIPc7x_TVBox_Armbian/blob/main/Pictures/ArmbianInstalleMMC.png)
+16) Now select system 
+![Armbian config main menu](https://github.com/nathmo/TIPc7x_TVBox_Armbian/blob/main/Pictures/ArmbianeMMC2.png)
+17) Now select Install 
+![Armbian config menu](https://github.com/nathmo/TIPc7x_TVBox_Armbian/blob/main/Pictures/ArmbaineMMC3.png)
+18) Now select Boot from eMMC
+![Armbian config menu](https://github.com/nathmo/TIPc7x_TVBox_Armbian/blob/main/Pictures/ArmbianeMMC5.png)
+19) say yes
+![Armbian config menu](https://github.com/nathmo/TIPc7x_TVBox_Armbian/blob/main/Pictures/ArmbianeMMC7.png)
+19) choose ext4 formating
+![Armbian config menu](https://github.com/nathmo/TIPc7x_TVBox_Armbian/blob/main/Pictures/ArmbaineMMC8.png)
+20) wait
+![Armbian config menu](https://github.com/nathmo/TIPc7x_TVBox_Armbian/blob/main/Pictures/ArmbianeMMC9.png)
+21) Once it's done you can remove the sd card and run "sudo reboot now" and the board should now boot on Armbian from the eMMC memory
