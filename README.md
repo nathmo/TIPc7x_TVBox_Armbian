@@ -1,10 +1,10 @@
 # TIPc7x_TVBox_Armbian
-a repository containing the file and the intruction to run Armbian from a TIPc7x TV box sold by AVIQ (might work on A95X from NEXBOX. not tested)
+a repository containing the file and the intruction to run Armbian from a TIPc7x TV box sold by AVIQ
 
 ## Disclaimer
 
 This procedure is not 100% safe and there is a risk of leaving your board in a unsusable state.You have been warned.
-If you encounter spelling mistake, imprecision in the steps, or any other problem with thoses insctruction or file dont hesistate to open an issue or directly a pull request and if you find this tutorial useful please star this repo.
+If you encounter spelling mistake, imprecision in the steps, or any other problem with thoses instruction or file dont hesistate to open an issue or directly a pull request and if you find this tutorial useful please star this repo.
 
 ## Requirements
 
