@@ -18,6 +18,11 @@ If you encounter spelling mistake, imprecision in the steps, or any other proble
 * a suitable power supply for the TIPc7x
 * the file in this repo
 
+
+## Acknolegments
+Thanks to Luigi Petrucci for the hints that saved me hours of pain.
+Thanks to the stranger online who provided bit and part of information to compile linux for the beast.
+
 ## Steps
 
 1) Download the required Files and extract them
