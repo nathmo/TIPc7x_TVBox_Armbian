@@ -33,7 +33,7 @@ Thanks to the stranger online who provided bit and part of information to compil
 
 ![Amlogic UI](https://github.com/nathmo/TIPc7x_TVBox_Armbian/blob/main/Pictures/AmlogicBoot.jpg)
 
-4) Plug the USB cable into the USB port that is closest to the Ethernet port on the board and plug the other end in the computer.
+4) Introduce a rod (contton swap that you cut work great) in the jack port until you fell a little click. then, Plug the USB cable into the USB port that is closest to the Ethernet port on the board and plug the other end in the computer. Dont forget to keep the button in the jack port pressedn when you plug the USB cable in. THis force the device to boot in debug mode
 
 ![USB cable setup](https://github.com/nathmo/TIPc7x_TVBox_Armbian/blob/main/Pictures/USBCableSetup.jpg)
 
