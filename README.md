@@ -1,5 +1,5 @@
-# TIPc7x_TVBox_Armbian
-a repository containing the file and the intruction to run Armbian from a TIPc7x TV box sold by AVIQ
+# TIPc7x_TVBox_Armbian (VTX TV)
+a repository containing the file and the intruction to run Armbian from a TIPc7x TV box sold by AVIQ (maybe known as VTX TV box)
 
 ## Disclaimer
 
