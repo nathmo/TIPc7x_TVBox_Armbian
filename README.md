@@ -43,7 +43,8 @@ Use the correct USB port (the closest to the Ethernet port)
 
 ![Click there](https://github.com/nathmo/TIPc7x_TVBox_Armbian/blob/main/Pictures/AmlogicImportImage.jpg)
 
-![ROM selction menu](https://github.com/nathmo/TIPc7x_TVBox_Armbian/blob/main/Pictures/AmlogicROMSelection.jpg)
+![image](https://user-images.githubusercontent.com/15912256/166136816-f91f8bd3-e19e-40ef-b6f8-bcebdc6c66a7.png)
+unzip the img in this file
 
 ![Beginning of the burn process](https://github.com/nathmo/TIPc7x_TVBox_Armbian/blob/main/Pictures/AmlogicBurnStockAndroidBeginning.jpg)
 
