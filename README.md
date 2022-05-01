@@ -1,5 +1,6 @@
-# TIPc7x_TVBox_Armbian (VTX TV)
+# TIPc7x_TVBox_Armbian (VTX TV) (likely a NEXBOX A95X)
 a repository containing the file and the intruction to run Armbian from a TIPc7x TV box sold by AVIQ (maybe known as VTX TV box)
+(it seems that theses  box are copy of likely a NEXBOX A95X but onlay with 1GB RAM and 8GB eMMC. 
 
 ## Disclaimer
 
